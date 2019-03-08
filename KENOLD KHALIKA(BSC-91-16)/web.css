@@ -1,0 +1,47 @@
+body{
+    border:3px blue solid;
+    padding: 2px;
+    background-color: wheat;
+    background-image: url(images/pic.jpg);
+}
+.images{
+    padding: 10px;
+    border: red solid;
+}
+img{
+    border-radius: 50%;
+}
+h2{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+.projects{
+    width: 70%;
+    background: skyblue;
+    margin: 27px auto;
+    overflow: hidden;
+    border: solid;
+    padding: 10px;
+
+}
+.projects ul{
+    padding: 0px;
+    border: red solid auto;
+}
+.projects ul li{
+    margin:  42px 42px 0px 54px;
+    height: 200px;
+    list-style: none;
+    float: left;
+    border: solid;
+    width:18%;
+    background: white;
+
+}
+.expri{
+    border:4px  white solid;
+    padding: 10px;
+    margin: 0px; 
+}
